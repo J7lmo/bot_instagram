@@ -9,7 +9,7 @@ Assurez-vous d'avoir les bibliothèques suivantes installées :
 - BeautifulSoup
 - requests
 - openai
--instabot
+- instabot
 
 Vous pouvez les installer en utilisant pip :
 
