@@ -32,6 +32,6 @@ Une fois que vous avez effectué toutes les configurations nécessaires, vous po
 
 Assurez-vous d'avoir une connexion Internet active lors de l'exécution du code.
 
->Note : Ce code utilise la version GPT-3.5 Turbo de l'API OpenAI. Vous devez disposer d'un accès valide à cette version pour l'utiliser.
+>Ce code utilise la version GPT-3.5 Turbo de l'API OpenAI. Vous devez disposer d'un accès valide à cette version pour l'utiliser.
 
 N'hésitez pas à personnaliser le code selon vos besoins et à l'adapter à d'autres flux RSS ou plateformes de médias sociaux. Bonne utilisation !
